@@ -1,10 +1,10 @@
 # Olá! Eu sou o Matheus Santos 👋
 
-**Analista de QA | Qualidade de Software | Testes Manuais e Automação**
+**Analista de QA | Suporte Técnico | Qualidade de Software e Tecnologia**
 
-Atuo com qualidade de software, buscando entregar produtos mais confiáveis por meio de testes bem planejados, análise crítica e colaboração com desenvolvimento e produto.
+Profissional de tecnologia com experiência em Qualidade de Software (QA) e Suporte Técnico, conectando a visão do usuário à qualidade dos produtos digitais. Gosto de investigar problemas, entender causas e colaborar com equipes para entregar soluções confiáveis.
 
-Tenho experiência com testes funcionais, regressivos, exploratórios e de API, além da criação e manutenção de cenários automatizados.
+Em QA, atuo com testes funcionais, regressivos, exploratórios e de API, além da criação e manutenção de cenários automatizados. Em suporte, tenho experiência com atendimento técnico, troubleshooting, diagnóstico de incidentes e apoio na resolução de problemas.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Matheus%20Santos-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/matheus-santos-1910101a0)
 [![Email](https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mthdsantos@icloud.com)
@@ -13,12 +13,12 @@ Tenho experiência com testes funcionais, regressivos, exploratórios e de API, 
 
 ## 🧪 Sobre mim
 
-- Experiência em QA e qualidade de software em produtos digitais.
-- Atuação com testes manuais, regressivos, funcionais, integração e APIs.
-- Experiência na automação de fluxos e cenários de testes.
-- Vivência com análise de requisitos, reprodução de bugs e validação de correções.
-- Trabalho próximo a times de desenvolvimento, produto e suporte.
-- Interesse contínuo em evoluir práticas de automação, cobertura e prevenção de defeitos.
+- Experiência em Qualidade de Software (QA) e suporte técnico.
+- Atuação com testes manuais, funcionais, regressivos, exploratórios, de integração e APIs.
+- Criação e execução de cenários de teste e automação de fluxos.
+- Experiência com atendimento técnico, troubleshooting e diagnóstico de incidentes.
+- Investigação, reprodução e documentação de problemas, com interface entre usuários e desenvolvimento.
+- Colaboração com equipes de tecnologia para melhorar a experiência do usuário e a confiabilidade dos sistemas.
 
 ## 🛠️ Tecnologias e ferramentas
 
@@ -82,7 +82,7 @@ Suporte N1/N2 • Troubleshooting • Diagnóstico de incidentes • Análise de
 
 ### 🤝 Vamos conversar?
 
-Estou aberto a oportunidades na área de **QA / Quality Assurance**, especialmente em times que valorizem colaboração, qualidade e evolução técnica.
+Estou aberto a oportunidades nas áreas de **Qualidade de Software (QA) e Suporte Técnico**, em times que valorizem colaboração, resolução de problemas, qualidade e evolução técnica.
 
 📍 Campinas – SP  
 💼 [LinkedIn](https://linkedin.com/in/matheus-santos-1910101a0)  
