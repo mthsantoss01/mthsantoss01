@@ -72,7 +72,11 @@ Confira alguns repositórios e projetos:
 
 ## 🎯 Foco profissional
 
-Qualidade de software • Automação de testes • Testes de API • Estratégia de testes • Prevenção de bugs • Melhoria contínua
+**Qualidade de Software (QA)**  
+Testes funcionais • Testes manuais e exploratórios • Automação de testes • Testes de API • Testes de regressão • Estratégia de testes • Prevenção de bugs • Melhoria contínua
+
+**Suporte Técnico e Atendimento**  
+Suporte N1/N2 • Troubleshooting • Diagnóstico de incidentes • Análise de logs • Atendimento ao usuário • Investigação e reprodução de problemas • Documentação de soluções • Interface entre suporte e desenvolvimento
 
 ---
 
