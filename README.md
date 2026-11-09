@@ -67,7 +67,6 @@ Em QA, atuo com testes funcionais, regressivos, exploratórios e de API, além d
 Confira alguns repositórios e projetos:
 
 - [Novo Lar](https://github.com/mthsantoss01/novo-lar)
-- [Novo Lar 2.0](https://github.com/mthsantoss01/Novolar2.0)
 - [Projeto Viva Bem](https://github.com/mthsantoss01/projetovivabem)
 
 ## 🎯 Foco profissional
